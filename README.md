@@ -59,6 +59,11 @@ Implemented and explored the following Machine Learning algorithms:
 **Decision Tree**
 - Implemented a tree-based model to classify customers based on their features.
 
+**Random Forest Classifier**
+-  Built an ensemble-based classification model using multiple decision trees.
+
+-  Improved prediction robustness by combining predictions from multiple trees.
+
 ### 5. Model Evaluation
 
 Evaluated model performance using the following metrics:
